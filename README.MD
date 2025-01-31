@@ -9,7 +9,11 @@
 <p align="center">
     preview do podcast
 </p>
-
+<p align="center">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</p>
 <div align="center">
     <audio src="output/clique_aqui-ep01-VEED.mp3" controls title="clique aqui ep01"></audio>
 </div>
